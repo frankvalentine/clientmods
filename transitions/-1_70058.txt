@@ -1,3 +1,0 @@
-0 70059 60 0.000000 0.000000 0 0 0 1
-
-##lit cigarette 1 + 60 seconds = lit cigarette 2
