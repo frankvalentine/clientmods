@@ -1,3 +1,0 @@
-0 70094 2 0.000000 0.000000 0 0 1 6
-
-##caravan dromedaries chase you 6 tiles every 2 seconds	
