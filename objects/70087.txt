@@ -2,7 +2,7 @@ id=70087
 Dromedary Bridled
 containable=0
 containSize=1,vertSlotRot=0.000000
-permanent=1,minPickupAge=3
+permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
@@ -16,7 +16,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=0.500000
-heldOffset=0.000000,0.000000
+heldOffset=-148.000000,63.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -134,7 +134,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=5
+numUses=1
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=117
