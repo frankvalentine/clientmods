@@ -1,0 +1,3 @@
+80903 80990 0 0.000000 0.000000 0 0 0 1
+
+##picking one hops fruit from desert tree

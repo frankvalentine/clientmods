@@ -1,3 +1,0 @@
-70003 0 0 0.000000 0.000000 0 0 0 1
-
-##bowl + gold coins (3) = bowl of gold coins + nothing

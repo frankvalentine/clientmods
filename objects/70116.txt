@@ -6,7 +6,7 @@ permanent=0,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
-heatValue=0
+heatValue=-1
 rValue=0.000000
 person=0,noSpawn=0
 male=0
@@ -18,7 +18,7 @@ foodValue=0
 speedMult=1.000000
 heldOffset=15.000000,-11.000000
 clothing=b
-clothingOffset=1.000000,33.000000
+clothingOffset=-2.000000,32.000000
 deadlyDistance=0
 useDistance=1
 sounds=153:0.250000,281:0.095960,-1:0.0,-1:0.0

@@ -1,3 +1,0 @@
-70126 291 0 0.000000 0.000000 0 0 0 1
-
-##empty hand + raw flatbread on flat rock = raw flatbread + flat rock

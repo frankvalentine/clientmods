@@ -1,3 +1,0 @@
-458 70004 0 0.000000 0.000000 0 0 0 1
-
-##steel file + gold ingot = steel file + gold key blank
