@@ -1,3 +1,0 @@
-80903 80988 0 0.000000 0.000000 0 0 0 1
-
-##picking two hops fruit from tree

@@ -1,3 +1,0 @@
-0 891 -50 0.000000 0.000000 0 0 0 1
-
-##adobe wall EW to cracking in 50 epochs. rubble transitions removed
