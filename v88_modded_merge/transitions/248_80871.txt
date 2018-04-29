@@ -1,3 +1,3 @@
-0 80867 0 0.000000 0.000000 0 0 0 1
+248 80867 0 0.000000 0.000000 0 0 0 1
 
-##firebrand + loaded distillery = firing distillery
+##firebrand into distillery with two firewood = firebrand + firing distillery
